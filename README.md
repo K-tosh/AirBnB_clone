@@ -88,5 +88,5 @@ $ ./console.py
 
 
 ## Authors
-Eric Lugaya Musanyi
+Eric Musanyi
 ```
